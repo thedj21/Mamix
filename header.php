@@ -1,3 +1,9 @@
-<div id="header">
-		<h1> Bienvenue sur le panel Mamix </h1>
+<div class="page-header">
+	<h1>Uptime :	
+<?php
+		$output = shell_exec('uptime');
+		echo "<pre>$output</pre>";
+?>
+	</h1>
 </div>
+
