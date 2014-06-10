@@ -1,9 +1,9 @@
 <div class="page-header">
-	<h1>Uptime :	
+	<p>Uptime :	
 <?php
 		$output = shell_exec('uptime');
 		echo "<pre>$output</pre>";
 ?>
-	</h1>
+	</p>
 </div>
 
