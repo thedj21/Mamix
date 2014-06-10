@@ -3,7 +3,7 @@ Mamix
 
 Quel est le but de Mamix ? 
 ====
-Mamix à pour objectif de créer un panel de gestion simple pour les débutants. Ce panel va leurs permettrent de pouvoir configurer leur serveur GNU/linux le plus simplement possible.
+Mamix a pour objectif de créer un panel de gestion simple pour les débutants. Ce panel va leurs permettrent de pouvoir configurer leur serveur GNU/linux le plus simplement possible.
 *******************************
 Attention ! 
 ====
