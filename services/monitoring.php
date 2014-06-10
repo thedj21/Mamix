@@ -30,8 +30,8 @@ echo "<pre>$output</pre>";
 <script src="http://code.jquery.com/jquery.js"></script>
 
 <!-- Intégration de la libraire de composants du Bootstrap -->
-<script src="../js/bootstarp.js"></script>
-<script src="../js/bootstrap.min.js"></script>
+<script src="/bootstrap-3.1.1-dist/js/bootstarp.js"></script>
+<script src="/bootstrap-3.1.1-dist/js/bootstrap.min.js"></script>
 
 </body>
 </html> 
