@@ -18,7 +18,7 @@
 <div class="jumbotron">
 <div class="container">
   <h1>Bienvenue dans le panel Mamix</h1>
-  <p>...</p>
+  <p>Vous êtes dans le panel de gestion de votre serveur.</p>
   <p><a class="btn btn-primary btn-lg" role="button">Cliquer ici ça fera rien :O</a></p>
 </div>
 </div>
