@@ -21,12 +21,12 @@
 
 <!-- Intégration du script de monitoring -->
 <?php
-$output = shell_exec('ps afx');
+$ps_afx = shell_exec('ps afx');
 echo "<pre>$output</pre>";
 ?>
 
 <?php
-$output = shell_exec('./var/www/htop');
+$htop = shell_exec('./var/www/htop');
 echo "<pre>$output</pre>";
 ?>
 <!-- Intégration de la libraire jQuery -->
