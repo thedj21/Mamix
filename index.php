@@ -19,8 +19,7 @@
 
 <div class="jumbotron">
   <h1>Bienvenue dans le panel Mamix</h1>
-  <p>...</p>
-  <p><a class="btn btn-primary btn-lg" role="button">Cliquer ici ça fera rien ;)</a></p>
+  <p>Vous êtes dans l'interface de gestion de votre serveur.</p>
 </div>
 <!-- Intégration du footer -->
 <? include ("footer.php"); ?>
