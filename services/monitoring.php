@@ -21,13 +21,13 @@
 
 <!-- Intégration du script de monitoring -->
 <?php
-$ps_afx = shell_exec('ps afx');
+$output = shell_exec('ps afx');
 echo "<pre>$output</pre>";
 ?>
 
 <?php
-$htop = shell_exec('./var/www/htop');
-echo "<pre>$htop</pre>";
+$output = shell_exec('./var/www/htop');
+echo "<pre>$output</pre>";
 ?>
 <!-- Intégration de la libraire jQuery -->
 <script src="http://code.jquery.com/jquery.js"></script>

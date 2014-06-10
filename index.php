@@ -18,7 +18,8 @@
 <div class="jumbotron">
 <div class="container">
   <h1>Bienvenue dans le panel Mamix</h1>
-  <p>Vous êtes dans l'interface de gestion de votre serveur.</p>
+  <p>...</p>
+  <p><a class="btn btn-primary btn-lg" role="button">Cliquer ici ça fera rien ;)</a></p>
 </div>
 </div>
 <!-- Intégration du footer -->
