@@ -22,7 +22,7 @@
 </div>
 </div>
 <!-- Intégration du header -->
-<? include ("header.php"); ?>
+<!--<? include ("header.php"); ?>--!>
 <!-- Intégration du footer -->
 <? include ("footer.php"); ?>
 
