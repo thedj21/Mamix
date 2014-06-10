@@ -1,21 +1,21 @@
 Mamix
 =====
 
-Quelle est le but de Mamix ? 
+Quel est le but de Mamix ? 
 ====
-Mamix à pour objectif de créer un panel simple pour les débutants qui vous leurs permettres de pouvoir configuré leur serveur GNU/linux le plus simplement possible.
+Mamix à pour objectif de créer un panel de gestion simple pour les débutants. Ce panel va leurs permettrent de pouvoir configurer leur serveur GNU/linux le plus simplement possible.
 *******************************
 Attention ! 
 ====
-Pour l'instant le panel est en phase expérimentale, si vous l'utilisez à vos risques et péril.
+Pour l'instant le panel est en phase expérimentale, si vous l'utilisez, utilisez à vos risques et péril.
 *******************************
 Il dispose de quelle fonctionnalités ? 
 
-Le projet est à ses débuts, donc il aura seulement pour un premier temps 2 fonctions. 
+Le projet est à ses débuts, donc pour le moment il possède très peu de fonction. 
 
 Phase alpha : 
 
-* Template.
+* Template / CMS.
 * Terminal GNU/Liux.
 * Logs.
 * Monitoring
@@ -26,3 +26,5 @@ Phase beta :
 * Automatisation du service transmission-daemon.
 
 *********************************************************
+
+Les contributions sont bienvenues !
