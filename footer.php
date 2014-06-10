@@ -2,7 +2,7 @@
   <div class="panel-body">
     <p>Licence GPL v2</p>
   </div>
-  <div> class="panel-body">
+  <div class="panel-body">
   	<p>Uptime :	
 <?php
 $output = shell_exec('uptime');
