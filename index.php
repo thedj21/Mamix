@@ -19,7 +19,7 @@
 <div class="container">
   <h1>Bienvenue dans le panel Mamix</h1>
   <p>...</p>
-  <p><a class="btn btn-primary btn-lg" role="button">Cliquer ici ça fera rien ;)</a></p>
+  <p><a class="btn btn-primary btn-lg" role="button">Cliquer ici ça fera rien :O</a></p>
 </div>
 </div>
 <!-- Intégration du footer -->
