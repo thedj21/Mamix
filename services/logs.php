@@ -23,7 +23,7 @@
 <!-- Intéfration du script -->
 
 <?php
-$output = shell_exec('cd /var/log |ls| tail mail.err');
+$output = shell_exec('tail cd /var/log/messages');
 echo "<pre>$output</pre>";
 ?>
 
